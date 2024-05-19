@@ -1,7 +1,11 @@
-- 👋 Hi, I’m Pen Qun
-- 🌱 I’m currently learning how to make a discord bot
+# 關於我
+嗨! 你可以叫我摩莎或是摩勳
 
-<!---
-jerry921229000/jerry921229000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 經歷
+- 目前沒有
+
+## 作品
+- 目前沒有
+
+## 聯絡
+- 暫不透漏
